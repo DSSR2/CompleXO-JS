@@ -1,6 +1,9 @@
 # CompleXO-JS
 An ingenious twist to the all time favorite XO or Cross and Noughts in JavaScript.
+
 Grab a friend and check out the game at [dssr2.github.io/complexo.html](https://dssr2.github.io/complexo.html "CompleXO")
+
+Want to mess around with it? Head to [codepen!](https://codepen.io/dssr2/pen/xxVVpQe)
 # How to Play
 1. The game board is divided into a large 3\*3 grid with each cell containing a smaller 3\*3 grid. 
 
